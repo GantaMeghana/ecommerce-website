@@ -1,7 +1,7 @@
 import React from 'react';
-const App=()=>{
-    return(
-        <h1>this is shoping page</h1>
-    )
+function MyButton() {
+    return (
+        <div>this is ashopping page</div>
+    );
 }
-export default App;
+export default MyButton;
