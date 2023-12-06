@@ -36,10 +36,10 @@ const Rows=()=>{
         
             <div class="row justify-content-md-center mb-3" style={{height:"300px;"}}>
                 <div class="col-2 mx-2">
-                    <a class="nav-link" class="b-4 g-col-5" href="/productlist"><img src="https://rukminim2.flixcart.com/image/612/612/xif0q/nut-dry-fruit/v/1/j/-original-imagsycdrchs8hkt.jpeg?q=70"/></a>
+                    <a class="nav-link" class="b-4 g-col-5" href="/productlist"><img src="https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/w/v/s/m-2062-hiphoptrends-original-imagmprqeezthk24.jpeg?q=70" style={{height:"300px"}}/></a>
                 </div>
                 <div class="col-2 mx-2 ">
-                    <a class="nav-link" class="b-4 g-col-5" href="/productlist"><img src="https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70"/></a>
+                    <a class="nav-link" class="b-4 g-col-5" href="/productlist"><img src="https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70" style={{height:"300px"}}/></a>
                 </div>
                 <div class="col-2 mx-2">
                     <a class="nav-link" class="b-4 g-col-5" href="/productlist"><img src="https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70"/></a>
